@@ -66,7 +66,6 @@ method as a result of selecting the inappropriate dataset can lead USA to incorr
 
 FAKE NEWS DETECTION
 
-Y20IT064 4
 DATA PREPROCESS:
 
 The primary information collected from the web sources remains within the raw variety of
